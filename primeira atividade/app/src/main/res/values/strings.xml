@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Primeira Atividade</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Eu amo programar!</string>
+    <string name="second_fragment_label">Programar é muito bom!</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="lorem_ipsum">
+        Olá, mundo!
+    </string>
+</resources>
